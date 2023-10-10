@@ -54,10 +54,10 @@ coprocessor:
       body: true # By including this key the co-processor can modify the body of the response
 
 # PQL Module
-preview_persisted_queries:
-  enabled: true
-  safelist: 
-    enabled: true
-    require_id: false
-apq:
-  enabled: false #Automated persisted queries must be disabled to use PQs 
+#preview_persisted_queries:
+#  enabled: true
+#  safelist: 
+#    enabled: true
+#    require_id: false
+#apq:
+#  enabled: false #Automated persisted queries must be disabled to use PQs 

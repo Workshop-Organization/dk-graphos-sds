@@ -44,11 +44,6 @@ subscription:
          path: /
 
 # Operation Limits
-limits:
-  max_depth: 5
-  max_height: 10
-  max_aliases: 3
-
 # Co-Processor Module
 
 coprocessor:
